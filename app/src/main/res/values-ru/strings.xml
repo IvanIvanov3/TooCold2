@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_maps">Карта</string>
+    <string name="title_location_permission">Подтвердите разрешение</string>
+    <string name="text_location_permission">Приложение использует датчик GPS для определения местоположения</string>
+    <string name="using_gps">Определить местоположения с помощью GPS</string>
+    <string name="on_a_map">или по карте Google</string>
+    <string name="open_gps_settings">настройки GPS</string>
+    <string name="gps_not_available_title">GPS выключен</string>
+    <string name="enable_gps_message">Пожайлуста, включите GPS</string>
+</resources>

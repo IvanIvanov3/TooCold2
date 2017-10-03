@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Too Cold 2</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_location_permission">Confirm access rights</string>
+    <string name="text_location_permission">The app uses the GPS unit in your phone in order to determine your location</string>
+    <string name="on_a_map"> or on a google map</string>
+    <string name="using_gps">find your location using GPS</string>
+    <string name="open_gps_settings">GPS settings</string>
+    <string name="hourly_weather_icon">hourly weather icon</string>
+    <string name="daily_weather_icon">daily weather icon</string>
+    <string name="gps_not_available_title">GPS is not available</string>
+    <string name="enable_gps_message">Please enable GPS</string>
+</resources>
